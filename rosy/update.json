@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "aepranata",
+            "oem": "Redmi",
+            "device": "Redmi 5",
+            "version": "Lineage 22.0",
+            "filename": "lineage-22.0-20241121-UNOFFICIAL-rosy.zip",
+            "download": "https://www.pling.com/p/2216558/",
+            "key": "aSJcF4JM",
+            "timestamp": 1732321388,
+            "md5": "dc479cd4bee2f6c42a3fc9eaad14d2ba",
+            "sha256": "57070e7000eb0148f84c63c23d22a975abd05c7396c9fdebe805b12ce018151f",
+            "size": 941716742,
+            "buildtype": "daily",
+            "forum": "https://t.me/a3discussion",
+            "telegram": "https://t.me/aepranata"
+        }
+    ]
+}

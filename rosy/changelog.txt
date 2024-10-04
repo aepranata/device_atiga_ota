@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Daily
+Device: Redmi 5
+Device maintainer: aepranata
+
+Highlights & Device Specific Changes:
+=====================================
+22nd Novenber, 2024
+
+• Initial release
+• Support KernelSU
+• Add maintainer info in firmware version
+• Shipped with AtigaFX
+• Shipped with AtigaArts
+• Change default wallpaper
+• Update graphic driver
+• Update media codec from CLO LA.UM.10.6.2.c26
