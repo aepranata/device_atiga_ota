@@ -21,3 +21,13 @@ Highlights & Device Specific Changes:
 
 • Import missing camera blob
 • Import media codec configuration
+
+-------------------------------------
+xxx December, 2024
+
+• Improve PowerManager driver
+• Update audio HAL
+• Update blobs from FP3-REL-6.A.031.5-gms-fa7632b5-user
+• Bump vendor security to 2024-11-05
+• Fix sone sepolicy denial
+• Add more AtigaArts wallpaper
