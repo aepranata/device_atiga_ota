@@ -33,3 +33,12 @@ Highlights & Device Specific Changes:
 • Shipped with AtigaLauncher
 • Update default wallpaper
 • Bump KernelSU to v0.9.5
+
+-------------------------------------
+14 January, 2025
+
+• Merged tag LA.UM.9.6.4.r1-04900-89xx.QSSI13.0 into Wfi HAL
+• Tweaking Wifi HAL
+• Disable turbulence noise
+• Switch to QTI Thermal AIDL HAL
+• Switch to QTI Memtrack AIDL HAL
