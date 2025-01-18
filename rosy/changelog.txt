@@ -5,22 +5,18 @@ Device maintainer: aepranata
 
 Highlights & Device Specific Changes:
 =====================================
-22nd Novenber, 2024
-
-• Initial release
-• Support KernelSU
-• Add maintainer info in firmware version
-• Shipped with AtigaFX
-• Shipped with AtigaArts
-• Change default wallpaper
-• Update graphic driver
-• Update media codec from CLO LA.UM.10.6.2.c26
+18 January, 2025
+• Build missing libraries
+• Update manifests
 
 -------------------------------------
-26th November, 2024
+14 January, 2025
 
-• Import missing camera blob
-• Import media codec configuration
+• Merged tag LA.UM.9.6.4.r1-04900-89xx.QSSI13.0 into Wfi HAL
+• Tweaking Wifi HAL
+• Disable turbulence noise
+• Switch to QTI Thermal AIDL HAL
+• Switch to QTI Memtrack AIDL HAL
 
 -------------------------------------
 27 December, 2024
@@ -35,10 +31,19 @@ Highlights & Device Specific Changes:
 • Bump KernelSU to v0.9.5
 
 -------------------------------------
-14 January, 2025
+26th November, 2024
 
-• Merged tag LA.UM.9.6.4.r1-04900-89xx.QSSI13.0 into Wfi HAL
-• Tweaking Wifi HAL
-• Disable turbulence noise
-• Switch to QTI Thermal AIDL HAL
-• Switch to QTI Memtrack AIDL HAL
+• Import missing camera blob
+• Import media codec configuration
+
+-------------------------------------
+22nd Novenber, 2024
+
+• Initial release
+• Support KernelSU
+• Add maintainer info in firmware version
+• Shipped with AtigaFX
+• Shipped with AtigaArts
+• Change default wallpaper
+• Update graphic driver
+• Update media codec from CLO LA.UM.10.6.2.c26
