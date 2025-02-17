@@ -5,7 +5,18 @@ Device maintainer: aepranata
 
 Highlights & Device Specific Changes:
 =====================================
+17 February, 2025
+
+• Fix camera blob requirements
+• Build missing bluetooth audio blob
+• Sync with atest source
+• Add clock background chip
+• Add custom statusbar logo
+• Switch back to Trebuchet
+
+-------------------------------------
 18 January, 2025
+
 • Build missing libraries
 • Update manifests
 
